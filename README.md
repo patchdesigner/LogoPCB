@@ -35,4 +35,4 @@ We have already ordered some PCB boards of this design to [JLCPCB](http://www.jl
 
 Stay tuned to this repo for further updates!
 
-Added: This repository is intended to serve as an entry for the JLCPCB design contest 2020!
+_Added:_ This repository will participate in the JLCPCB design contest 2020!
