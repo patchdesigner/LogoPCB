@@ -31,7 +31,7 @@ Smith Chart:
 
 After the electromagnetic simulation, it was necessary to create the files needed to fabricate the PCBs (gerbers) and finding some way to inspect them before production. For that purpose, the [EasyEDA](http://www.EasyEDA.com) website ended up being a complete and easy to use alternative to common bulky softwares!
 
-## PCB fabrication and measurements.
+## PCB fabrication and measurements
 
 We have already ordered some PCB boards of this design to [JLCPCB](http://www.jlcpcb.com) in order to test them and measure them! The offer great service at incredibly low costs. 
 
