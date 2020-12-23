@@ -15,15 +15,17 @@ This project is about a patch antenna for the 23cm Ham Radio Band (L band) with 
 
 ## Simulation results
 
-3D Diagram:
+After an uncountable number of hours, we are glad to present the simulation results of our antenna!
+
+**3D Diagram:**
 
 ![3D Diagram](https://i.imgur.com/kuQbn10.png)
 
-S11:
+**S11:**
 
 ![S11](https://i.imgur.com/g2SHdTP.png)
 
-Smith Chart:
+**Smith Chart:**
 
 ![Smith Chart](https://i.imgur.com/EBXJxPG.png)
 
