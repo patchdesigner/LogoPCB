@@ -11,6 +11,8 @@ This project is about a patch antenna for the 23cm Ham Radio Band (L band) with 
 - **Minimum VSWR:** 1.13 @ 1297MHz
 - **Max. power:** 50W
 
+![Antenna](https://i.imgur.com/YgB2MHv.png)
+
 ## Simulation results
 
 3D Diagram:
